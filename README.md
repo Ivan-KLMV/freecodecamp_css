@@ -1,2 +1,2 @@
 # freecodecamp_css
-CSS by designing a menu page
+CSS designing a menu page
